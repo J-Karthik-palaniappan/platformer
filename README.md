@@ -9,13 +9,13 @@ Platformer game built using pygame
 ![image](https://github.com/J-Karthik-palaniappan/platformer/assets/99670301/1f7f5bec-b553-4349-a7c7-537ed5cf20f2)
 
 # Code Logic
-The maps are stored as images where every pixel color represents a particular tile
+The maps are stored as images where every pixel color represents a particular tile\n
 Sprite classes:
-  Coin
-  Life
-  path
-  enemy
-  player
+  * Coin
+  * Life
+  * path
+  * enemy
+  * player
 
-class 'level' takes in the map image and creates the world
+class 'level' takes in the map image and creates the world\n
 class 'maingame' creates mutliple levels and handles them
