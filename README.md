@@ -2,9 +2,9 @@
 Platformer game built using pygame
 
 # controls
-##Jump - Space bar
-##movement - Left Right arrow key
-##night mode toggle - 'N' key
+## Jump - Space bar
+## movement - Left Right arrow key
+## night mode toggle - 'N' key
 ![image](https://github.com/J-Karthik-palaniappan/platformer/assets/99670301/ef860c42-c5c6-4c3d-b400-b8f326785c86)
 ![image](https://github.com/J-Karthik-palaniappan/platformer/assets/99670301/1f7f5bec-b553-4349-a7c7-537ed5cf20f2)
 
